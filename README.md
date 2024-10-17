@@ -1,6 +1,8 @@
 # Salvare: A Unified Platform for Saving Resources
 
 ## Project Overview
+This is the project page for our fifth-semester software engineering project at CSEDU. The following documentation is required for the completion of the project.
+
 Salvare is an innovative mobile application designed to help users save, organize, and share various online resources such as links, articles, images, and videos. In an era of information overload, Salvare aims to address the challenges of resource management, making it easier for users to access and collaborate on important content.
 
 ## Project Rationale
@@ -72,6 +74,3 @@ Salvare offers a valuable opportunity to learn and apply software engineering co
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Contact
-For inquiries, please reach out to:
-- [Jahir Sadik Monon](mailto:jahirsadikmonon@gmail.com)
